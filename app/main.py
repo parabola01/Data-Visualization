@@ -1,8 +1,8 @@
+import datetime
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import os
-
 
 st.title('Wizualizacja projekt')
 
@@ -21,8 +21,20 @@ def read_files():
 
 
 df_top10 = read_files()
-fig = px.pie(
-    labels=df_top10.Type.values,
-    names=df_top10.Type.values
-)
-st.plotly_chart(fig)
+# fig = px.pie(
+#     labels=df_top10.Type.values,
+#     names=df_top10.Type.values
+# )
+# st.plotly_chart(fig)
+
+
+st.write('Który dzień chcesz zobaczyć?')
+
+date = str(st.date_input('Wybierz date',
+                     value=datetime.date(2020, 4, 1),
+                     min_value=datetime.date(2020, 4, 1),
+                     max_value=datetime.date(2022, 3, 11)))
+ranking = df_top10[df_top10['As of'] == date]['Title']
+
+for i, title in enumerate(ranking):
+    st.write(i+1, title)
