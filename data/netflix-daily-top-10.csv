@@ -142,7 +142,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-04-15,1,1,1,"Tiger King: Murder, Mayhem …",TV Show,Yes,"Mar 20, 2020",23,230
 2020-04-15,2,2,2,Ozark,TV Show,Yes,"Jul 21, 2017",19,170
 2020-04-15,3,3,0,Code 8,Movie,No,"Apr 11, 2020",4,29
-2020-04-15,4,0,0,Chris DâElia: No Pain,Stand-Up Comedy,Yes,"Apr 14, 2020",1,7
+2020-04-15,4,0,0,Chris DâElia: No Pain,TV Show,Yes,"Apr 14, 2020",1,7
 2020-04-15,5,4,6,Money Heist,TV Show,Yes,"Dec 20, 2017",12,72
 2020-04-15,6,5,7,All American,TV Show,No,"Mar 28, 2019",23,148
 2020-04-15,7,7,4,The Big Show Show,TV Show,Yes,"Apr 6, 2020",9,51
@@ -152,7 +152,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-04-16,1,1,1,"Tiger King: Murder, Mayhem …",TV Show,Yes,"Mar 20, 2020",24,240
 2020-04-16,2,2,2,Ozark,TV Show,Yes,"Jul 21, 2017",20,179
 2020-04-16,3,3,0,Code 8,Movie,No,"Apr 11, 2020",5,37
-2020-04-16,4,4,0,Chris DâElia: No Pain,Stand-Up Comedy,Yes,"Apr 14, 2020",2,14
+2020-04-16,4,4,0,Chris DâElia: No Pain,TV Show,Yes,"Apr 14, 2020",2,14
 2020-04-16,5,0,0,The Innocence Files,TV Show,Yes,"Apr 15, 2020",1,6
 2020-04-16,6,0,0,Outer Banks,TV Show,Yes,"Apr 15, 2020",1,5
 2020-04-16,7,6,7,All American,TV Show,No,"Mar 28, 2019",24,152
@@ -167,7 +167,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-04-17,6,3,0,Code 8,Movie,No,"Apr 11, 2020",6,42
 2020-04-17,7,7,6,All American,TV Show,No,"Mar 28, 2019",25,156
 2020-04-17,8,8,5,Money Heist,TV Show,Yes,"Dec 20, 2017",14,78
-2020-04-17,9,4,0,Chris DâElia: No Pain,Stand-Up Comedy,Yes,"Apr 14, 2020",3,16
+2020-04-17,9,4,0,Chris DâElia: No Pain,TV Show,Yes,"Apr 14, 2020",3,16
 2020-04-17,10,9,3,The Big Show Show,TV Show,Yes,"Apr 6, 2020",11,54
 2020-04-18,1,1,0,Despicable Me,Movie,No,"Apr 16, 2020",2,20
 2020-04-18,2,2,1,"Tiger King: Murder, Mayhem …",TV Show,Yes,"Mar 20, 2020",26,258
@@ -354,14 +354,14 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-05-06,3,8,0,Arctic Dogs,Movie,No,"May 4, 2020",2,11
 2020-05-06,4,2,0,Dangerous Lies,Movie,Yes,"Apr 30, 2020",6,55
 2020-05-06,5,4,2,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",9,71
-2020-05-06,6,0,0,Jerry Seinfeld: 23 Hours to…,Stand-Up Comedy,Yes,"May 5, 2020",1,5
+2020-05-06,6,0,0,Jerry Seinfeld: 23 Hours to…,TV Show,Yes,"May 5, 2020",1,5
 2020-05-06,7,5,0,All Day and a Night,Movie,Yes,"May 1, 2020",5,26
 2020-05-06,8,6,0,Den of Thieves,Movie,No,"May 1, 2020",4,16
 2020-05-06,9,7,1,Extraction,Movie,Yes,"Apr 24, 2020",12,91
 2020-05-06,10,9,4,The Last Kingdom,TV Show,No,"Jul 10, 2016",10,42
 2020-05-07,1,1,3,Outer Banks,TV Show,Yes,"Apr 15, 2020",22,186
 2020-05-07,2,2,0,Hollywood,TV Show,Yes,"May 1, 2020",5,39
-2020-05-07,3,6,0,Jerry Seinfeld: 23 Hours to…,Stand-Up Comedy,Yes,"May 5, 2020",2,13
+2020-05-07,3,6,0,Jerry Seinfeld: 23 Hours to…,TV Show,Yes,"May 5, 2020",2,13
 2020-05-07,4,5,1,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",10,78
 2020-05-07,5,0,0,Becoming,Movie,Yes,"May 6, 2020",1,6
 2020-05-07,6,4,0,Dangerous Lies,Movie,Yes,"Apr 30, 2020",7,60
@@ -373,7 +373,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-05-08,2,2,0,Hollywood,TV Show,Yes,"May 1, 2020",6,48
 2020-05-08,3,5,0,Becoming,Movie,Yes,"May 6, 2020",2,14
 2020-05-08,4,7,0,Workinâ Moms,TV Show,Yes,"Feb 22, 2019",2,11
-2020-05-08,5,3,0,Jerry Seinfeld: 23 Hours to…,Stand-Up Comedy,Yes,"May 5, 2020",3,19
+2020-05-08,5,3,0,Jerry Seinfeld: 23 Hours to…,TV Show,Yes,"May 5, 2020",3,19
 2020-05-08,6,4,1,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",11,83
 2020-05-08,7,9,0,Den of Thieves,Movie,No,"May 1, 2020",6,22
 2020-05-08,8,8,0,Arctic Dogs,Movie,No,"May 4, 2020",4,17
@@ -386,7 +386,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-05-09,5,3,0,Becoming,Movie,Yes,"May 6, 2020",3,20
 2020-05-09,6,0,0,Sleepless,Movie,No,"May 9, 2020",1,5
 2020-05-09,7,6,2,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",12,87
-2020-05-09,8,5,0,Jerry Seinfeld: 23 Hours to…,Stand-Up Comedy,Yes,"May 5, 2020",4,22
+2020-05-09,8,5,0,Jerry Seinfeld: 23 Hours to…,TV Show,Yes,"May 5, 2020",4,22
 2020-05-09,9,7,0,Den of Thieves,Movie,No,"May 1, 2020",7,24
 2020-05-09,10,0,0,Too Hot to Handle,TV Show,Yes,"Apr 17, 2020",15,88
 2020-05-10,1,1,0,Dead to Me,TV Show,Yes,"May 3, 2019",2,20
@@ -396,7 +396,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-05-10,5,5,0,Becoming,Movie,Yes,"May 6, 2020",4,26
 2020-05-10,6,4,0,Workinâ Moms,TV Show,Yes,"Feb 22, 2019",4,23
 2020-05-10,7,9,7,Den of Thieves,Movie,No,"May 1, 2020",8,28
-2020-05-10,8,8,0,Jerry Seinfeld: 23 Hours to…,Stand-Up Comedy,Yes,"May 5, 2020",5,25
+2020-05-10,8,8,0,Jerry Seinfeld: 23 Hours to…,TV Show,Yes,"May 5, 2020",5,25
 2020-05-10,9,0,4,Extraction,Movie,Yes,"Apr 24, 2020",13,93
 2020-05-10,10,7,2,Never Have I Ever,TV Show,Yes,"Apr 27, 2020",13,88
 2020-05-11,1,1,0,Dead to Me,TV Show,Yes,"May 3, 2019",3,30
@@ -911,7 +911,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-06-30,10,10,0,Love,Movie,No,"Feb 4, 2016",7,22
 2020-07-01,1,1,1,Floor is Lava,TV Show,Yes,"Jun 19, 2020",12,118
 2020-07-01,2,2,0,Eurovision Song Contest: Th…,Movie,Yes,"Jun 26, 2020",5,47
-2020-07-01,3,0,0,George Lopez: Weâll Do It f…,Stand-Up Comedy,Yes,"Jun 30, 2020",1,8
+2020-07-01,3,0,0,George Lopez: Weâll Do It f…,TV Show,Yes,"Jun 30, 2020",1,8
 2020-07-01,4,4,2,The Order,TV Show,Yes,"Mar 7, 2019",13,101
 2020-07-01,5,3,4,365 Days,Movie,Yes,"Jul 7, 2020",24,205
 2020-07-01,6,5,0,Crazy Delicious,TV Show,Yes,"Jun 24, 2020",5,20
@@ -922,7 +922,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-07-02,1,0,0,Unsolved Mysteries,TV Show,Yes,"Jul 1, 2020",1,10
 2020-07-02,2,1,1,Floor is Lava,TV Show,Yes,"Jun 19, 2020",13,127
 2020-07-02,3,0,0,Patriots Day,Movie,No,"Jul 1, 2020",1,8
-2020-07-02,4,3,0,George Lopez: Weâll Do It f…,Stand-Up Comedy,Yes,"Jun 30, 2020",2,15
+2020-07-02,4,3,0,George Lopez: Weâll Do It f…,TV Show,Yes,"Jun 30, 2020",2,15
 2020-07-02,5,2,0,Eurovision Song Contest: Th…,Movie,Yes,"Jun 26, 2020",6,53
 2020-07-02,6,4,2,The Order,TV Show,Yes,"Mar 7, 2019",14,106
 2020-07-02,7,5,4,365 Days,Movie,Yes,"Jul 7, 2020",25,209
@@ -935,7 +935,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-07-03,4,0,0,Warrior Nun,TV Show,Yes,"Jul 2, 2020",1,7
 2020-07-03,5,9,0,The Town,Movie,No,"Jul 1, 2020",2,8
 2020-07-03,6,0,0,A Thousand Words,Movie,No,"Jul 1, 2020",1,5
-2020-07-03,7,4,0,George Lopez: Weâll Do It f…,Stand-Up Comedy,Yes,"Jun 30, 2020",3,19
+2020-07-03,7,4,0,George Lopez: Weâll Do It f…,TV Show,Yes,"Jun 30, 2020",3,19
 2020-07-03,8,5,0,Eurovision Song Contest: Th…,Movie,Yes,"Jun 26, 2020",7,56
 2020-07-03,9,7,3,365 Days,Movie,Yes,"Jul 7, 2020",26,211
 2020-07-03,10,6,2,The Order,TV Show,Yes,"Mar 7, 2019",15,107
@@ -946,7 +946,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-07-04,5,3,1,Floor is Lava,TV Show,Yes,"Jun 19, 2020",15,141
 2020-07-04,6,5,0,The Town,Movie,No,"Jul 1, 2020",3,13
 2020-07-04,7,0,0,Desperados,Movie,Yes,"Jul 3, 2020",1,4
-2020-07-04,8,7,0,George Lopez: Weâll Do It f…,Stand-Up Comedy,Yes,"Jun 30, 2020",4,22
+2020-07-04,8,7,0,George Lopez: Weâll Do It f…,TV Show,Yes,"Jun 30, 2020",4,22
 2020-07-04,9,8,2,Eurovision Song Contest: Th…,Movie,Yes,"Jun 26, 2020",8,58
 2020-07-04,10,9,3,365 Days,Movie,Yes,"Jul 7, 2020",27,212
 2020-07-05,1,1,0,Unsolved Mysteries,TV Show,Yes,"Jul 1, 2020",4,40
@@ -957,7 +957,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-07-05,6,5,2,Floor is Lava,TV Show,Yes,"Jun 19, 2020",16,146
 2020-07-05,7,6,0,The Town,Movie,No,"Jul 1, 2020",4,17
 2020-07-05,8,0,0,A Thousand Words,Movie,No,"Jul 1, 2020",2,8
-2020-07-05,9,8,0,George Lopez: Weâll Do It f…,Stand-Up Comedy,Yes,"Jun 30, 2020",5,24
+2020-07-05,9,8,0,George Lopez: Weâll Do It f…,TV Show,Yes,"Jun 30, 2020",5,24
 2020-07-05,10,10,4,365 Days,Movie,Yes,"Jul 7, 2020",28,213
 2020-07-06,1,1,0,Unsolved Mysteries,TV Show,Yes,"Jul 1, 2020",5,50
 2020-07-06,2,2,0,Warrior Nun,TV Show,Yes,"Jul 2, 2020",4,34
@@ -2310,7 +2310,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-17,9,0,0,Hometown Holiday,Movie,No,"Nov 15, 2020",1,2
 2020-11-17,10,10,0,Dash & Lily,TV Show,Yes,"Nov 10, 2020",7,39
 2020-11-18,1,1,0,The Crown,TV Show,Yes,"Nov 4, 2016",3,30
-2020-11-18,2,0,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",1,9
+2020-11-18,2,0,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",1,9
 2020-11-18,3,2,1,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",26,242
 2020-11-18,4,3,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",2,15
 2020-11-18,5,0,0,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",6,20
@@ -2320,7 +2320,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-18,9,9,0,Hometown Holiday,Movie,No,"Nov 15, 2020",2,4
 2020-11-18,10,7,0,American Horror Story,TV Show,No,"Sep 15, 2014",4,16
 2020-11-19,1,1,0,The Crown,TV Show,Yes,"Nov 4, 2016",4,40
-2020-11-19,2,2,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",2,18
+2020-11-19,2,2,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",2,18
 2020-11-19,3,3,1,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",27,250
 2020-11-19,4,4,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",3,22
 2020-11-19,5,5,0,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",7,26
@@ -2331,7 +2331,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-19,10,10,0,American Horror Story,TV Show,No,"Sep 15, 2014",5,17
 2020-11-20,1,1,0,The Crown,TV Show,Yes,"Nov 4, 2016",5,50
 2020-11-20,2,0,0,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",1,9
-2020-11-20,3,2,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",3,26
+2020-11-20,3,2,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",3,26
 2020-11-20,4,3,1,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",28,257
 2020-11-20,5,4,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",4,28
 2020-11-20,6,5,0,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",8,31
@@ -2341,7 +2341,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-20,10,9,0,Jingle Jangle: A Christmas …,Movie,Yes,"Nov 13, 2020",6,32
 2020-11-21,1,1,0,The Crown,TV Show,Yes,"Nov 4, 2016",6,60
 2020-11-21,2,2,0,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",2,18
-2020-11-21,3,3,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",4,34
+2020-11-21,3,3,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",4,34
 2020-11-21,4,4,1,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",29,264
 2020-11-21,5,5,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",5,34
 2020-11-21,6,0,0,The Great British Baking Show,TV Show,No,"Oct 3, 2015",12,46
@@ -2350,7 +2350,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-21,9,8,7,Cocomelon,TV Show,No,"Jun 1, 2020",62,156
 2020-11-21,10,7,0,Survivor,TV Show,No,"Nov 15, 2020",3,10
 2020-11-22,1,1,0,The Crown,TV Show,Yes,"Nov 4, 2016",7,70
-2020-11-22,2,3,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",5,43
+2020-11-22,2,3,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",5,43
 2020-11-22,3,2,0,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",3,26
 2020-11-22,4,4,1,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",30,271
 2020-11-22,5,5,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",6,40
@@ -2360,7 +2360,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-22,9,10,0,Survivor,TV Show,No,"Nov 15, 2020",4,12
 2020-11-22,10,0,2,Jingle Jangle: A Christmas …,Movie,Yes,"Nov 13, 2020",7,33
 2020-11-23,1,1,1,The Crown,TV Show,Yes,"Nov 4, 2016",8,80
-2020-11-23,2,2,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",6,52
+2020-11-23,2,2,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",6,52
 2020-11-23,3,4,2,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",31,279
 2020-11-23,4,3,0,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",4,33
 2020-11-23,5,5,0,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",7,46
@@ -2371,7 +2371,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-23,10,10,3,Jingle Jangle: A Christmas …,Movie,Yes,"Nov 13, 2020",8,34
 2020-11-24,1,1,1,The Crown,TV Show,Yes,"Nov 4, 2016",9,90
 2020-11-24,2,3,2,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",32,288
-2020-11-24,3,2,0,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",7,60
+2020-11-24,3,2,0,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",7,60
 2020-11-24,4,4,0,The Princess Switch: Switch…,Movie,Yes,"Nov 19, 2020",5,40
 2020-11-24,5,5,3,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",8,52
 2020-11-24,6,7,0,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",12,48
@@ -2383,7 +2383,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-25,2,1,1,The Crown,TV Show,Yes,"Nov 4, 2016",10,99
 2020-11-25,3,2,3,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",33,296
 2020-11-25,4,0,0,Hard Kill,Movie,No,"Nov 23, 2020",1,7
-2020-11-25,5,3,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",8,66
+2020-11-25,5,3,2,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",8,66
 2020-11-25,6,7,8,Illumination Presents The G…,Movie,No,"Jun 5, 2019",15,56
 2020-11-25,7,5,4,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",9,56
 2020-11-25,8,6,5,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",13,51
@@ -2395,7 +2395,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-26,4,3,3,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",34,303
 2020-11-26,5,4,0,Hard Kill,Movie,No,"Nov 23, 2020",2,13
 2020-11-26,6,6,8,Illumination Presents The G…,Movie,No,"Jun 5, 2019",16,61
-2020-11-26,7,5,2,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",9,70
+2020-11-26,7,5,2,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",9,70
 2020-11-26,8,8,5,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",14,54
 2020-11-26,9,7,4,Cloudy with a Chance of Mea…,Movie,No,"Nov 15, 2020",10,58
 2020-11-26,10,0,0,The Christmas Chronicles,Movie,Yes,"Nov 22, 2018",1,1
@@ -2406,7 +2406,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-11-27,5,3,1,The Crown,TV Show,Yes,"Nov 4, 2016",12,113
 2020-11-27,6,6,9,Illumination Presents The G…,Movie,No,"Jun 5, 2019",17,66
 2020-11-27,7,10,0,The Christmas Chronicles,Movie,Yes,"Nov 22, 2018",2,5
-2020-11-27,8,7,3,Kevin Hart: Zero F**ks Given,Stand-Up Comedy,Yes,"Nov 17, 2020",10,73
+2020-11-27,8,7,3,Kevin Hart: Zero F**ks Given,TV Show,Yes,"Nov 17, 2020",10,73
 2020-11-27,9,0,0,How the Grinch Stole Christmas,Movie,No,"Jun 1, 2017",1,2
 2020-11-27,10,8,6,The Boss Baby: Back in Busi…,TV Show,Yes,"Apr 6, 2018",15,55
 2020-11-28,1,1,0,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",3,30
@@ -2650,7 +2650,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-12-21,9,9,9,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",16,95
 2020-12-21,10,10,8,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",59,405
 2020-12-22,1,2,7,How the Grinch Stole Christmas,Movie,No,"Jun 1, 2017",23,96
-2020-12-22,2,0,0,"Ariana Grande: Excuse Me, I…",Concert/Perf…,Yes,"Dec 21, 2020",1,9
+2020-12-22,2,0,0,"Ariana Grande: Excuse Me, I…",TV Show,Yes,"Dec 21, 2020",1,9
 2020-12-22,3,4,0,Tiny Pretty Things,TV Show,Yes,"Dec 14, 2020",7,54
 2020-12-22,4,8,8,Cocomelon,TV Show,No,"Jun 1, 2020",79,204
 2020-12-22,5,5,0,Braven,Movie,No,"Dec 17, 2020",5,27
@@ -2663,7 +2663,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2020-12-23,2,1,7,How the Grinch Stole Christmas,Movie,No,"Jun 1, 2017",24,105
 2020-12-23,3,4,8,Cocomelon,TV Show,No,"Jun 1, 2020",80,212
 2020-12-23,4,3,3,Tiny Pretty Things,TV Show,Yes,"Dec 14, 2020",8,61
-2020-12-23,5,2,0,"Ariana Grande: Excuse Me, I…",Concert/Perf…,Yes,"Dec 21, 2020",2,15
+2020-12-23,5,2,0,"Ariana Grande: Excuse Me, I…",TV Show,Yes,"Dec 21, 2020",2,15
 2020-12-23,6,6,2,Manhunt: Deadly Games,TV Show,No,"Dec 7, 2020",14,95
 2020-12-23,7,10,9,The Queenâs Gambit,TV Show,Yes,"Oct 23, 2020",61,410
 2020-12-23,8,0,0,The Christmas Chronicles 2,Movie,Yes,"Nov 25, 2020",17,98
@@ -4338,7 +4338,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-06-08,7,7,2,Dog Gone Trouble,Movie,Yes,"May 28, 2021",11,82
 2021-06-08,8,8,0,Xtreme,Movie,Yes,"Jun 4, 2021",3,9
 2021-06-08,9,10,0,Monsters vs. Aliens,Movie,No,"Jun 1, 2021",4,6
-2021-06-08,10,0,0,Bo Burnham: Inside,Stand-Up Comedy,Yes,"May 30, 2021",1,1
+2021-06-08,10,0,0,Bo Burnham: Inside,TV Show,Yes,"May 30, 2021",1,1
 2021-06-09,1,1,0,Sweet Tooth,TV Show,Yes,"Jun 4, 2021",5,49
 2021-06-09,2,2,1,Lucifer,TV Show,No,"Dec 15, 2018",33,262
 2021-06-09,3,3,0,2 Hearts,Movie,No,"Jun 2, 2021",7,46
@@ -4358,7 +4358,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-06-10,7,6,4,Home,Movie,No,"May 25, 2021",16,112
 2021-06-10,8,7,2,Dog Gone Trouble,Movie,Yes,"May 28, 2021",13,89
 2021-06-10,9,9,0,Monsters vs. Aliens,Movie,No,"Jun 1, 2021",6,10
-2021-06-10,10,0,0,Bo Burnham: Inside,Stand-Up Comedy,Yes,"May 30, 2021",2,2
+2021-06-10,10,0,0,Bo Burnham: Inside,TV Show,Yes,"May 30, 2021",2,2
 2021-06-11,1,1,0,Sweet Tooth,TV Show,Yes,"Jun 4, 2021",7,69
 2021-06-11,2,2,0,Awake,Movie,Yes,"Jun 9, 2021",2,18
 2021-06-11,3,0,0,Manifest,TV Show,No,"Jun 10, 2021",1,8
@@ -5542,7 +5542,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-07,1,1,0,Squid Game,TV Show,Yes,"Sep 17, 2021",18,171
 2021-10-07,2,2,0,On My Block,TV Show,Yes,"Mar 16, 2018",4,28
 2021-10-07,3,3,0,Maid,TV Show,Yes,"Oct 1, 2021",6,48
-2021-10-07,4,0,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",1,7
+2021-10-07,4,0,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",1,7
 2021-10-07,5,4,0,The Guilty,Movie,Yes,"Oct 1, 2021",6,47
 2021-10-07,6,0,0,Thereâs Someone Inside Your…,Movie,Yes,"Oct 6, 2021",1,5
 2021-10-07,7,5,0,Midnight Mass,TV Show,Yes,"Sep 24, 2021",12,85
@@ -5552,7 +5552,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-08,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",19,181
 2021-10-08,2,3,0,Maid,TV Show,Yes,"Oct 1, 2021",7,57
 2021-10-08,3,2,0,On My Block,TV Show,Yes,"Mar 16, 2018",5,36
-2021-10-08,4,4,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",2,14
+2021-10-08,4,4,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",2,14
 2021-10-08,5,6,0,Thereâs Someone Inside Your…,Movie,Yes,"Oct 6, 2021",2,11
 2021-10-08,6,5,0,The Guilty,Movie,Yes,"Oct 1, 2021",7,52
 2021-10-08,7,7,2,Midnight Mass,TV Show,Yes,"Sep 24, 2021",13,89
@@ -5561,7 +5561,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-08,10,10,0,The DUFF,Movie,No,"Oct 1, 2021",6,21
 2021-10-09,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",20,191
 2021-10-09,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",8,66
-2021-10-09,3,4,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",3,22
+2021-10-09,3,4,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",3,22
 2021-10-09,4,3,0,On My Block,TV Show,Yes,"Mar 16, 2018",6,43
 2021-10-09,5,6,2,The Guilty,Movie,Yes,"Oct 1, 2021",8,58
 2021-10-09,6,5,0,Thereâs Someone Inside Your…,Movie,Yes,"Oct 6, 2021",3,16
@@ -5571,7 +5571,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-09,10,9,9,Cocomelon,TV Show,No,"Jun 1, 2020",345,1221
 2021-10-10,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",21,201
 2021-10-10,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",9,75
-2021-10-10,3,3,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",4,30
+2021-10-10,3,3,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",4,30
 2021-10-10,4,4,0,On My Block,TV Show,Yes,"Mar 16, 2018",7,50
 2021-10-10,5,5,2,The Guilty,Movie,Yes,"Oct 1, 2021",9,64
 2021-10-10,6,6,0,Thereâs Someone Inside Your…,Movie,Yes,"Oct 6, 2021",4,21
@@ -5581,7 +5581,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-10,10,0,5,My Little Pony: A New Gener…,Movie,Yes,"Sep 24, 2021",13,68
 2021-10-11,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",22,211
 2021-10-11,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",10,84
-2021-10-11,3,3,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",5,38
+2021-10-11,3,3,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",5,38
 2021-10-11,4,4,0,On My Block,TV Show,Yes,"Mar 16, 2018",8,57
 2021-10-11,5,5,2,The Guilty,Movie,Yes,"Oct 1, 2021",10,70
 2021-10-11,6,6,0,Thereâs Someone Inside Your…,Movie,Yes,"Oct 6, 2021",5,26
@@ -5591,7 +5591,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-11,10,9,9,Cocomelon,TV Show,No,"Jun 1, 2020",347,1224
 2021-10-12,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",23,221
 2021-10-12,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",11,93
-2021-10-12,3,3,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",6,46
+2021-10-12,3,3,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",6,46
 2021-10-12,4,4,2,On My Block,TV Show,Yes,"Mar 16, 2018",9,64
 2021-10-12,5,0,0,Shameless,TV Show,No,"Jun 30, 2016",27,167
 2021-10-12,6,9,0,The Five Juanas,TV Show,Yes,"Oct 6, 2021",2,7
@@ -5601,7 +5601,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-12,10,0,0,The Blacklist,TV Show,No,"Sep 15, 2014",9,25
 2021-10-13,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",24,231
 2021-10-13,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",12,102
-2021-10-13,3,3,0,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",7,54
+2021-10-13,3,3,0,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",7,54
 2021-10-13,4,5,0,Shameless,TV Show,No,"Jun 30, 2016",28,174
 2021-10-13,5,4,2,On My Block,TV Show,Yes,"Mar 16, 2018",10,70
 2021-10-13,6,6,0,The Five Juanas,TV Show,Yes,"Oct 6, 2021",3,12
@@ -5612,7 +5612,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-14,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",25,241
 2021-10-14,2,2,3,Maid,TV Show,Yes,"Oct 1, 2021",13,111
 2021-10-14,3,4,0,Shameless,TV Show,No,"Jun 30, 2016",29,182
-2021-10-14,4,3,4,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",8,61
+2021-10-14,4,3,4,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",8,61
 2021-10-14,5,5,2,On My Block,TV Show,Yes,"Mar 16, 2018",11,76
 2021-10-14,6,6,0,The Five Juanas,TV Show,Yes,"Oct 6, 2021",4,17
 2021-10-14,7,7,7,Midnight Mass,TV Show,Yes,"Sep 24, 2021",19,109
@@ -5622,7 +5622,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-15,1,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",26,251
 2021-10-15,2,2,2,Maid,TV Show,Yes,"Oct 1, 2021",14,120
 2021-10-15,3,3,0,Shameless,TV Show,No,"Jun 30, 2016",30,190
-2021-10-15,4,4,4,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",9,68
+2021-10-15,4,4,4,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",9,68
 2021-10-15,5,5,3,On My Block,TV Show,Yes,"Mar 16, 2018",12,82
 2021-10-15,6,6,0,The Five Juanas,TV Show,Yes,"Oct 6, 2021",5,22
 2021-10-15,7,8,9,Cocomelon,TV Show,No,"Jun 1, 2020",351,1235
@@ -5633,7 +5633,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-16,2,1,1,Squid Game,TV Show,Yes,"Sep 17, 2021",27,260
 2021-10-16,3,2,2,Maid,TV Show,Yes,"Oct 1, 2021",15,128
 2021-10-16,4,3,0,Shameless,TV Show,No,"Jun 30, 2016",31,197
-2021-10-16,5,4,3,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",10,74
+2021-10-16,5,4,3,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",10,74
 2021-10-16,6,7,10,Cocomelon,TV Show,No,"Jun 1, 2020",352,1240
 2021-10-16,7,0,8,The Great British Baking Show,TV Show,No,"Oct 3, 2015",17,62
 2021-10-16,8,5,4,On My Block,TV Show,Yes,"Mar 16, 2018",13,85
@@ -5644,7 +5644,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-17,3,3,2,Maid,TV Show,Yes,"Oct 1, 2021",16,136
 2021-10-17,4,4,0,Shameless,TV Show,No,"Jun 30, 2016",32,204
 2021-10-17,5,9,0,The Forgotten Battle,Movie,Yes,"Oct 15, 2021",2,8
-2021-10-17,6,5,3,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",11,79
+2021-10-17,6,5,3,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",11,79
 2021-10-17,7,6,9,Cocomelon,TV Show,No,"Jun 1, 2020",353,1244
 2021-10-17,8,10,0,Going in Style,Movie,No,"Oct 11, 2021",2,4
 2021-10-17,9,0,0,My Name,TV Show,Yes,"Oct 15, 2021",1,2
@@ -5656,7 +5656,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-18,5,5,0,The Forgotten Battle,Movie,Yes,"Oct 15, 2021",3,14
 2021-10-18,6,9,0,My Name,TV Show,Yes,"Oct 15, 2021",2,7
 2021-10-18,7,7,10,Cocomelon,TV Show,No,"Jun 1, 2020",354,1248
-2021-10-18,8,6,3,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",12,82
+2021-10-18,8,6,3,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",12,82
 2021-10-18,9,8,0,Going in Style,Movie,No,"Oct 11, 2021",3,6
 2021-10-18,10,0,0,In the Dark,TV Show,No,"Jul 5, 2019",6,7
 2021-10-19,1,1,0,You,TV Show,No,"Dec 26, 2018",4,40
@@ -5667,7 +5667,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-19,6,5,0,The Forgotten Battle,Movie,Yes,"Oct 15, 2021",4,19
 2021-10-19,7,6,0,My Name,TV Show,Yes,"Oct 15, 2021",3,11
 2021-10-19,8,10,0,In the Dark,TV Show,No,"Jul 5, 2019",7,10
-2021-10-19,9,8,3,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",13,84
+2021-10-19,9,8,3,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",13,84
 2021-10-19,10,9,0,Going in Style,Movie,No,"Oct 11, 2021",4,7
 2021-10-20,1,1,0,You,TV Show,No,"Dec 26, 2018",5,50
 2021-10-20,2,2,1,Squid Game,TV Show,Yes,"Sep 17, 2021",31,296
@@ -5688,7 +5688,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-21,7,0,0,Night Teeth,Movie,Yes,"Oct 20, 2021",1,4
 2021-10-21,8,9,0,Riverdale,TV Show,No,"May 19, 2017",24,116
 2021-10-21,9,8,0,In the Dark,TV Show,No,"Jul 5, 2019",9,15
-2021-10-21,10,0,4,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",14,85
+2021-10-21,10,0,4,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",14,85
 2021-10-22,1,1,0,You,TV Show,No,"Dec 26, 2018",7,70
 2021-10-22,2,2,1,Squid Game,TV Show,Yes,"Sep 17, 2021",33,314
 2021-10-22,3,3,2,Maid,TV Show,Yes,"Oct 1, 2021",21,176
@@ -5697,7 +5697,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-22,6,5,7,Cocomelon,TV Show,No,"Jun 1, 2020",358,1271
 2021-10-22,7,8,0,Riverdale,TV Show,No,"May 19, 2017",25,120
 2021-10-22,8,6,0,My Name,TV Show,Yes,"Oct 15, 2021",6,24
-2021-10-22,9,10,4,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",15,87
+2021-10-22,9,10,4,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",15,87
 2021-10-22,10,9,0,In the Dark,TV Show,No,"Jul 5, 2019",10,16
 2021-10-23,1,1,1,You,TV Show,No,"Dec 26, 2018",8,80
 2021-10-23,2,2,2,Squid Game,TV Show,Yes,"Sep 17, 2021",34,323
@@ -5708,7 +5708,7 @@ As of,Rank,Year to Date Rank,Last Week Rank,Title,Type,Netflix Exclusive,Netflix
 2021-10-23,7,4,0,Night Teeth,Movie,Yes,"Oct 20, 2021",3,15
 2021-10-23,8,0,7,The Great British Baking Show,TV Show,No,"Oct 3, 2015",19,66
 2021-10-23,9,7,0,Riverdale,TV Show,No,"May 19, 2017",26,122
-2021-10-23,10,9,5,Dave Chappelle: The Closer,Stand-Up Comedy,Yes,"Oct 5, 2021",16,88
+2021-10-23,10,9,5,Dave Chappelle: The Closer,TV Show,Yes,"Oct 5, 2021",16,88
 2021-10-24,1,1,1,You,TV Show,No,"Dec 26, 2018",9,90
 2021-10-24,2,2,2,Squid Game,TV Show,Yes,"Sep 17, 2021",35,332
 2021-10-24,3,3,3,Maid,TV Show,Yes,"Oct 1, 2021",23,192
