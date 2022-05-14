@@ -16,10 +16,11 @@ def get_path(file):
 def read_files():
     netflix_top10 = pd.read_csv(get_path('netflix-daily-top-10.csv'))
     netflix_data = pd.read_csv(get_path('netflix_titles.csv'))
-    return netflix_top10, netflix_data
+    netfix_countries = pd.read_csv(get_path('netflix-countries.csv'))
+    return netflix_top10, netflix_data, netfix_countries
 
 
-df_top10, df_titles = read_files()
+df_top10, df_titles, df_countries = read_files()
 
 st.write('Który dzień chcesz zobaczyć?')
 
@@ -74,3 +75,15 @@ fig = px.pie(
     names=df_top10_all_time.Type.values
 )
 st.plotly_chart(fig)
+
+
+fig = px.choropleth(
+    df_countries,
+    locations='iso_alpha',
+    color='Count',
+    color_continuous_scale=px.colors.sequential.Reds,
+    width=1000,
+    height=800
+)
+st.plotly_chart(fig)
+
