@@ -65,7 +65,9 @@ df_titles_movies, df_titles_series = split_file(df_titles, 'type')
 with st.sidebar:
     selected = option_menu(
         menu_title='Pages',
-        options=['Main', 'Netflix Daily Top 10', 'Netflix Data']
+        options=['Main', 'Netflix Daily Top 10', 'Netflix Data'],
+        menu_icon='None',
+        icons='None'
     )
 
 if selected == 'Main':
