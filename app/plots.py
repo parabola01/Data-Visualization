@@ -57,14 +57,7 @@ def heatmap_plot(x, y, z):
     st.plotly_chart(fig)
 
 
-def wordcloud_plot(df):
-    cmap = matplotlib.colors.LinearSegmentedColormap.from_list("", ['#221f1f', '#b20710'])
-    text = str(list(df)).replace(',', '').replace('[', '').replace("'", '').replace(']', '').replace('.', '')
-    wordcloud = WordCloud(background_color='rgba(0, 0, 0, 0)', mode='RGBA', width=2000, height=1000, colormap=cmap,
-                          max_words=150).generate(text)
-    plt.axis('off')
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.savefig('wordcloud.png', transparent=True)
+def wordcloud_plot():
     img = Image.open('wordcloud.png')
     st.image(img)
 

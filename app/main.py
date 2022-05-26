@@ -2,7 +2,6 @@ import datetime
 import os
 import streamlit as st
 import pandas as pd
-from streamlit_option_menu import option_menu
 from collections import defaultdict
 from plots import *
 
@@ -62,13 +61,7 @@ df_top10_all_time = top_10_all_time()
 df_top10_all_time_movies, df_top10_all_time_series = split_file(df_top10_all_time, 'Type')
 df_titles_movies, df_titles_series = split_file(df_titles, 'type')
 
-with st.sidebar:
-    selected = option_menu(
-        menu_title='Pages',
-        options=['Main', 'Netflix Daily Top 10', 'Netflix Data'],
-        menu_icon='None',
-        icons='None'
-    )
+selected = st.sidebar.selectbox('Choose page', ('Main', 'Netflix Daily Top 10', 'Netflix Data'))
 
 if selected == 'Main':
     st.title('Movies and series on Netflix')
@@ -79,7 +72,7 @@ if selected == 'Main':
     st.write('#### Based on: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)\
               [Netflix daily top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)')
 
-    wordcloud_plot(df_titles['title'])
+    wordcloud_plot()
 
 if selected == 'Netflix Daily Top 10':
     st.title('Netflix Daily Top 10')
