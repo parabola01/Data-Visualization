@@ -3,6 +3,7 @@ import os
 import streamlit as st
 import pandas as pd
 from collections import defaultdict
+from streamlit_option_menu import option_menu
 from plots import *
 
 
@@ -61,7 +62,13 @@ df_top10_all_time = top_10_all_time()
 df_top10_all_time_movies, df_top10_all_time_series = split_file(df_top10_all_time, 'Type')
 df_titles_movies, df_titles_series = split_file(df_titles, 'type')
 
-selected = st.sidebar.selectbox('Choose page', ('Main', 'Netflix Daily Top 10', 'Netflix Data'))
+with st.sidebar:
+    selected = option_menu(
+        menu_title='Pages',
+        options=['Main', 'Netflix Daily Top 10', 'Netflix Data'],
+        menu_icon='None',
+        icons='None'
+    )
 
 if selected == 'Main':
     st.title('Movies and series on Netflix')
