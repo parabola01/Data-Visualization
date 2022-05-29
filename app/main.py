@@ -66,8 +66,7 @@ with st.sidebar:
     selected = option_menu(
         menu_title='Pages',
         options=['Main', 'Netflix Daily Top 10', 'Netflix Data'],
-        menu_icon='None',
-        icons='None'
+        menu_icon='None'
     )
 
 if selected == 'Main':
