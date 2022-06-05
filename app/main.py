@@ -65,7 +65,7 @@ df_titles_movies, df_titles_series = split_file(df_titles, 'type')
 with st.sidebar:
     selected = option_menu(
         menu_title='Pages',
-        options=['Main', 'Netflix Daily Top 10', 'Netflix Data'],
+        options=['Main', 'Netflix Daily Top 10', 'Netflix Data', 'Infographic'],
         menu_icon='None'
     )
 
@@ -141,7 +141,7 @@ if selected == 'Netflix Data':
     st.write('##### Number of unique movies genres: ', str(no_movies))
     corr_heatmap_plot(res_movies)
     st.write('#### Correlations between TV Shows genres')
-    st.write('##### NUmber of unique TV Shows genres: ', str(no_series))
+    st.write('##### Number of unique TV Shows genres: ', str(no_series))
     corr_heatmap_plot(res_series)
 
     all_releases = calc_no_releases(df_titles, 2, 'Years')
@@ -168,3 +168,7 @@ if selected == 'Netflix Data':
 
     st.write('#### Genres distribution - TV Shows')
     tree_plot(df_genres_series, df_genres_series['Count'])
+
+if selected == 'Infographic':
+    img = Image.open('infografika.jpg')
+    st.image(img)
