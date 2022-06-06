@@ -22,9 +22,9 @@ def read_files():
     return netflix_top10, netflix_data, netfix_countries, netflix_genres_movies, netflix_genres_series
 
 
-def top_10_all_time():
+def top_10_all_time(col):
     df1 = df_top10.copy()
-    df1.sort_values(by='Days In Top 10', ascending=False, inplace=True)
+    df1.sort_values(by=col, ascending=False, inplace=True)
     df1['Title'] = df1['Title'].drop_duplicates(keep='first')
     df1 = df1.dropna()
     return df1
@@ -58,8 +58,10 @@ def calc_no_releases(df, index, col_name):
 
 
 df_top10, df_titles, df_countries, df_genres_movies, df_genres_series = read_files()
-df_top10_all_time = top_10_all_time()
-df_top10_all_time_movies, df_top10_all_time_series = split_file(df_top10_all_time, 'Type')
+df_top10_all_time_days = top_10_all_time('Days In Top 10')
+df_top10_all_time_score = top_10_all_time('Viewership Score')
+df_top10_all_time_movies, df_top10_all_time_series = split_file(df_top10_all_time_days, 'Type')
+df_top10_all_time_score_movies, df_top10_all_time_score_series = split_file(df_top10_all_time_score, 'Type')
 df_titles_movies, df_titles_series = split_file(df_titles, 'type')
 
 with st.sidebar:
@@ -98,12 +100,12 @@ if selected == 'Netflix Daily Top 10':
     bar_plot(df_top10_all_time_series.iloc[:10], 'Title', 'Days In Top 10')
 
     st.write('#### Best Viewership Score - Movies')
-    bar_plot(df_top10_all_time_movies.iloc[:10], 'Title', 'Viewership Score')
+    bar_plot(df_top10_all_time_score_movies.iloc[:10], 'Title', 'Viewership Score')
     st.write('#### Best Viewership Score - TV Show')
-    bar_plot(df_top10_all_time_series.iloc[:10], 'Title', 'Viewership Score')
+    bar_plot(df_top10_all_time_score_series.iloc[:10], 'Title', 'Viewership Score')
 
     st.write('#### Are Netflix\'s productions more popular than other productions on Netflix?')
-    pie_plot(df_top10_all_time, 'Netflix Exclusive', 'Netflix Exclusive', 0.3)
+    pie_plot(df_top10_all_time_days, 'Netflix Exclusive', 'Netflix Exclusive', 0.3)
 
     st.write('#### Movies vs TV Shows in Daily Top 10')
     pie_plot(df_top10.Type, df_top10.Type.values, df_top10.Type.values, 0.3)
