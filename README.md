@@ -1,1 +1,1 @@
-(https://wizualizacja-projekt.herokuapp.com/)
+https://wizualizacja-projekt.herokuapp.com/
