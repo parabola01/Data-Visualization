@@ -1,7 +1,6 @@
 # Data Visualization project
 
-#### Based on: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)\
-              [Netflix daily top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)'
+#### Based on: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) [Netflix daily top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)'
               
 ---------------------------------------------------------------------------------------
 
