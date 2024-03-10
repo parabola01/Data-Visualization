@@ -1,4 +1,5 @@
 # Data Visualization project
+## This repository contains the collaborative work of our group project for the Data Visualization course.
 
 #### Based on: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) and [Netflix daily top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)'
               
